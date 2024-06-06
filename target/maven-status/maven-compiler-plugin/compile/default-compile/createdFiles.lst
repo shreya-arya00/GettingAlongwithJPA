@@ -1,0 +1,5 @@
+org/example/shopping/entity/Product.class
+org/example/shopping/controller/ProductController.class
+org/example/shopping/repository/ProductRepository.class
+org/example/shopping/service/ProductService.class
+org/example/shopping/Application.class
